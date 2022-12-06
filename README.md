@@ -1,4 +1,4 @@
-<a href="https://github.com/myxiaoao"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=myxiaoao&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&locale=en" align="right" height="150" /></a>
+<!--<a href="https://github.com/myxiaoao"><img alt="Git Stats" src="https://github-readme-stats.vercel.app/api?username=myxiaoao&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&theme=graywhite&locale=en" align="right" height="150" /></a>-->
 
 🔭 My name is Cooper, I’m a developer living in China.
 
