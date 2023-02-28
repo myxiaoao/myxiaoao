@@ -4,17 +4,18 @@
 
 ![](https://views.whatilearened.today/views/github/myxiaoao/views.svg)
 
-你好呀！💡
+嗨，你好呀！💡
 
 🔭 My name is Cooper, I’m a developer living in China.
 
 - 👀 I’m interested in Golang, PHP, some mobile and web dev.
 - 🌱 I've been working remotely from home for years.
 
-![](https://github.com/myxiaoao/myxiaoao/blob/main/github-contribution-grid-snake.svg)
-
 ---
 
+> **Note**   
+> Searching for a job   
+> I'm actively seeking employment working with good people on challenging and interesting technical problems.
 
 
 👏 Thanks for visiting this page and have a great day! 
@@ -24,3 +25,5 @@
 -->
 
 🖖 Bazinga! 
+
+![](https://github.com/myxiaoao/myxiaoao/blob/main/github-contribution-grid-snake.svg)
